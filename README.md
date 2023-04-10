@@ -1,8 +1,6 @@
-<div align="center">
-  [computer_gif](https://media.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif)
-</div>
+You can find me on:
 
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-jkss13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeissakarine)](https://www.linkedin.com/in/janeissakarine) 
 
 <div align="center">
   <a href="https://github.com/jkss13">
