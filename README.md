@@ -1,17 +1,5 @@
 # Hi, I'm Karine Santos! 👋
 
-
-## :mailbox_closed: How you can reach me
-
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janeissakarine/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
- 
-
-## :octocat: My Github Stats
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=filipeabessa&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
-</div>
-
 <div align="center">
   <a href="https://github.com/jkss13">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jkss13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,6 +17,10 @@
   <img alt="MySQL" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-  
+
+## :mailbox_closed: How you can reach me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janeissakarine/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
 
 ![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
