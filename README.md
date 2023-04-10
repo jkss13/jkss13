@@ -1,5 +1,10 @@
+<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="260"/>
 
-# Hi, I'm Karine Santos! 👋
+## Hey, I'm Karine! 
+
+My name is Karine and I live in Recife, Brazil. I currently work as a Data Science Intern. I have most experience in Python with Streamlit, BI, SQL, HTML, CSS and other libs and tools. I've been studying Python and Java languages since 2021. Actually, im focused at finish my System's Analysis and Development Degree. ✨
+
+</br>
 <br>
 
 <div align="center">
