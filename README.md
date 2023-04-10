@@ -1,4 +1,6 @@
+<div align="center"
 ![computer_gif](https://media.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif)
+</div>
 
 <br>
 
