@@ -19,8 +19,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-  release:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
