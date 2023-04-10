@@ -1,6 +1,16 @@
-You can find me on:
+# Hi, I'm Karine Santos! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jkss13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janeissakarine)](https://www.linkedin.com/in/janeissakarine) 
+
+## :mailbox_closed: How you can reach me
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janeissakarine/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
+ 
+
+## :octocat: My Github Stats
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=filipeabessa&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+</div>
 
 <div align="center">
   <a href="https://github.com/jkss13">
