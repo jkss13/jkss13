@@ -1,4 +1,4 @@
-<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="260"/>
+<img align="right" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="260"/>
 
 ## Hey, I'm Karine! 
 
