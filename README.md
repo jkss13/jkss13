@@ -1,3 +1,5 @@
+![computer_gif](https://media.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif)
+
 <br>
 
 <div align="center">
@@ -18,5 +20,5 @@
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
-  
+
 ![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
