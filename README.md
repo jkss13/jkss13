@@ -27,7 +27,7 @@ My name is Karine and I live in Recife, Brazil. I currently work as a Data Scien
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ## :mailbox_closed: How you can reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janeissakarine/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
