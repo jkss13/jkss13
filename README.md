@@ -1,4 +1,4 @@
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMybTgzdzlnOXZ3bzBwcDRsejM4eDZsenR1enN2N3Q5dDllbDk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7SgG6SiMmrNC/giphy.gif" width="260"/> 
+<img align="right" src="https://i.giphy.com/scZPhLqaVOM1qG4lT9.webp" width="260"/> 
 
 ## Hey, I'm Karine! 
 
