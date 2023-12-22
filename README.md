@@ -1,5 +1,7 @@
 <img align="right" src="https://i.giphy.com/scZPhLqaVOM1qG4lT9.webp" width="260"/> 
 
+<br>
+
 ## Hey, I'm Karine! 
 
 My name is Karine and I live in Recife, Brazil. I currently work as a Data Science Intern. I have most experience in Python with Streamlit, BI, SQL, HTML, CSS and other libs and tools. I've been studying Python and Java languages since 2021. I'm currently focused on finishing my System's Analysis and Development Degree. ✨
