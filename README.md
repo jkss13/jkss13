@@ -20,9 +20,9 @@ I have already worked on software development projects using Java, JavaScript (w
 <br>
 
 <div align="center">
-  <img alt="Azure AI Fundamentals" height="60" width="80" title="Azure AI Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/7cce20e75736373c?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
-  <img alt="Azure Data Fundamentals" height="60" width="80" title="Azure Data Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/443321be29e7dc7?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
-  <img alt="Power BI Data Analyst Associate" height="60" width="80" title="Power BI Data Analyst Associate" src="[https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png](https://learn.microsoft.com/en-us/users/karinesantos/credentials/29e88cb3b5f7a7cd)" />
+  <img alt="Azure AI Fundamentals" height="30" width="40" title="Azure AI Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/7cce20e75736373c?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
+  <img alt="Azure Data Fundamentals" height="30" width="40" title="Azure Data Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/443321be29e7dc7?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
+  <img alt="Power BI Data Analyst Associate" height="30" width="40" title="Power BI Data Analyst Associate" src="[https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png](https://learn.microsoft.com/en-us/users/karinesantos/credentials/29e88cb3b5f7a7cd)" />
 </div>
 
 <br>
