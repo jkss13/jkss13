@@ -4,7 +4,9 @@
 
 ## Hey, I'm Karine! 
 
-My name is Karine and I live in Recife, Brazil. I have most experience in Python with Streamlit, BI, SQL, HTML, CSS and other libs and tools. I've been studying Python and Java languages since 2021. I have also been practicing the .NET framework and the C# language. I'm currently focused on finishing my System's Analysis and Development Degree. ✨
+My name is Karine, I'm a Data Analyst, Internationalist and I live in Recife, Brazil.
+My main hard skills at the moment are focused on my area of ​​activity. So Power BI, Streamlit, SQL, M and DAX are part of my daily routine.
+I have already worked on software delovpment projects using Java, JavaScript (with HTML and CSS), C# and .NET, Kotlin and Python, but I am more enthusiastic about data. I am also studying Engineering and Data Science because they captivate my curiosity. ✨
 
 </br>
 <br>
