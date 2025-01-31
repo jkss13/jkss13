@@ -20,6 +20,14 @@ I have already worked on software development projects using Java, JavaScript (w
 <br>
 
 <div align="center">
+  <img alt="Azure AI Fundamentals" height="60" width="80" title="Azure AI Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/7cce20e75736373c?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
+  <img alt="Azure Data Fundamentals" height="60" width="80" title="Azure Data Fundamentals" src="[https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png](https://learn.microsoft.com/pt-br/users/karinesantos/credentials/443321be29e7dc7?ref=https%3A%2F%2Fwww.linkedin.com%2F)" />
+  <img alt="Power BI Data Analyst Associate" height="60" width="80" title="Power BI Data Analyst Associate" src="[https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png](https://learn.microsoft.com/en-us/users/karinesantos/credentials/29e88cb3b5f7a7cd)" />
+</div>
+
+<br>
+
+<div align="center">
   <img alt="Power BI" height="30" width="40" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
   <img alt="Streamlit" height="30" width="40" title="Streamlit" src="https://media.datacamp.com/legacy/image/upload/v1640050215/image27_frqkzv.png" />
   <img alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -35,4 +43,4 @@ I have already worked on software development projects using Java, JavaScript (w
 ![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ## :mailbox_closed: How you can reach me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janeissakarine/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinesantosdataanalyst/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
