@@ -40,7 +40,5 @@ I have already worked on software development projects using Java, JavaScript (w
 
 <br>
 
-![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
 ## :mailbox_closed: How you can reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karinesantosdataanalyst/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janeissakarine@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998402607?text=Olá,%20meu%20nome%20é%20Karine%20Santos!)
