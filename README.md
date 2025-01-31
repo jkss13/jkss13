@@ -25,10 +25,10 @@ I have already worked on software development projects using Java, JavaScript (w
   <img alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="SQL" height="30" width="40" title="SQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmieCqv7xtCIeHdDWO_6fkBW9OPqAJomBFXA&s" />
   <img alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt=".NET" height="30" width="40" title=".NET" src="https://images.sftcdn.net/images/t_app-icon-m/p/4e3ff2d9-a662-4bde-ae06-cdfbef05ac53/1647265468/dotnet-icon.png" />
   <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="MySQL" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
